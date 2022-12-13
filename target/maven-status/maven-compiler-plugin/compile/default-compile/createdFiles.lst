@@ -1,0 +1,10 @@
+QueueMessage\Queue$Node.class
+QueueMessage\StringUlities.class
+QueueMessage\QueueMessage.class
+QueueMessage\QueueEmtpyException.class
+QueueMessage\Stack$Node.class
+QueueMessage\Stack.class
+QueueMessage\Program.class
+QueueMessage\Queue.class
+QueueMessage\StackEmptyException.class
+QueueMessage\Menu.class
